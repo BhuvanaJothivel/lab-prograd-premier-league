@@ -311,3 +311,11 @@ body {
     padding: 4px;
     cursor: pointer;
 }
+
+.footers{
+    color: rgb(165, 161, 161);
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+	font-style: normal;
+}
